@@ -1,0 +1,11 @@
+*pyc
+*~
+__pycache__
+pro
+db.sqlite
+/static
+cv
+.DS_Store
+images
+cv_files
+jobpost_image
